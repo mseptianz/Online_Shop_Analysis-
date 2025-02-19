@@ -32,7 +32,7 @@ This repository contains an in-depth analysis of an online shop's sales and cust
 ## Usage
 - Open the Jupyter Notebook:
   ```bash
-  jupyter notebook
+  analysis.ipnb
   ```
 - Run the analysis scripts and explore the insights.
 
